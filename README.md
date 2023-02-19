@@ -19,28 +19,34 @@ Here are the results of total number of reviews, the number of 5-star reviews, a
 Total Number of Reviews
 
 Vine Reviews
+
 ![Screenshot](https://github.com/tianiedwards98/Amazon_Vine_Analysis/blob/main/Screenshots/paid-total-reviews.png?raw=true)
 
 
 Non-Vine Reviews
+
 ![Screenshot](https://github.com/tianiedwards98/Amazon_Vine_Analysis/blob/main/Screenshots/unpaid-total-reviews.png?raw=true)
 
 Number of 5 Star Reviews
 
 Vine 5 Star Reviews
+
 ![Screenshot](https://github.com/tianiedwards98/Amazon_Vine_Analysis/blob/main/Screenshots/paid-5-star.png?raw=true)
 
 
 Non-Vine 5 Star Reviews
+
 ![Screenshot](https://github.com/tianiedwards98/Amazon_Vine_Analysis/blob/main/Screenshots/unpaid-5-star.png?raw=true)
 
 Percentage of 5 Star Reviews
 
 Vine 5 Star Review Percentage
+
 ![Screenshot](https://github.com/tianiedwards98/Amazon_Vine_Analysis/blob/main/Screenshots/paid-percentage.png?raw=true)
 
 
 Non-Vine 5 Star Review Percentage
+
 ![Screenshot](https://github.com/tianiedwards98/Amazon_Vine_Analysis/blob/main/Screenshots/unpaid-percentage.png?raw=true)
 
 
